@@ -2,11 +2,11 @@
 
 Also known as **rcyw**. Curious about AI agents, the spaces they work in, and the systems that keep them running.
 
-[![Wayne's NeXTSTEP-inspired curiosity desktop](assets/curiosity-desktop.png)](https://rcyw.github.io/)
+[![Wayne's 3D NeXTSTEP-inspired curiosity workbench](assets/curiosity-desktop.png)](https://rcyw.github.io/)
 
-**[Open my curiosity desktop →](https://rcyw.github.io/)**
+**[Step into my curiosity desk →](https://rcyw.github.io/)**
 
-A few folders to wander into:
+Switch on a lamp, look around, and follow a thread:
 
 - **AI / Agent** — What makes an agent useful beyond a good demo?
 - **Agent Sandbox** — How can agents explore within boundaries we can trust?
